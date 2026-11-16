@@ -14,7 +14,7 @@ Professor Insights is a Chrome extension that helps students see professor ratin
 
 ## Install from the Chrome Web Store
 
-1. Visit the [Professor Insights Chrome Web Store page](Chrome Web Store link).
+1. Visit the Professor Insights Chrome Web Store page: (https://chromewebstore.google.com/detail/iiepnnljibedmoaijaoljcaekipfdjga?utm_source=item-share-cb ).
 2. Click **Add to Chrome**.
 3. Click **Add extension** when Chrome asks for confirmation.
 4. Open a class registration page and click the Professor Insights icon in the Chrome toolbar.
