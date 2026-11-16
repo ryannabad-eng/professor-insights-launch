@@ -40,7 +40,7 @@ The downloadable ZIP is included for local testing.
 
 ## Feedback
 
-Please share feedback through our [feedback form](Google Form link).
+Please share feedback through our Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdNAUVfjCE7JN-CZb1wdZDvA4m7zvfcgiEHSlOazL7L6CRx6A/viewform?usp=preview.
 
 The form asks about how easy the extension was to use, what worked well, what did not work, and what could be improved. If Professor Insights was helpful, please leave a review on the Chrome Web Store too.
 
@@ -54,4 +54,4 @@ Professor Insights does not submit ratings or store Rate My Professors login inf
 
 Current version: `v0.8.0`
 
-See the [Releases page](GitHub Releases link) for release notes and the downloadable launch ZIP file.
+See the (https://github.com/ryannabad-eng/professor-insights-launch/releases) for release notes and the downloadable launch ZIP file.
